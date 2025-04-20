@@ -1,2 +1,13 @@
 # CS2201
-This repository contains my coursework and projects for CS2201. It includes Python scripts, assignments, and project files that showcase my understanding of key computer science concepts, such as algorithms, data structures, and problem-solving, from the course.Here Set1 to Set8 is my solution for that specific question sets in different weeks.Two files SS_tab and SS_bisection is files taken from stavik saha github.Practice 1,2 and 3 are are my personal practice various problems before exams from or out of question sets.Special problem is my first problem of using probability in python.
+This repository contains my coursework and projects for CS2201, showcasing my progress and understanding of fundamental computer science concepts such as algorithms, data structures, and problem-solving using Python.
+
+Set1 to Set8: Solutions to weekly problem sets assigned throughout the course.
+
+SS_tab and SS_bisection: Reference implementations sourced from Stavik Saha’s GitHub, used for learning and comparison.
+
+Practice1, Practice2, and Practice3: Personal practice problems solved independently, both from course materials and external sources, in preparation for exams.
+
+SpecialProblem: My first exploration of probabilistic simulation in Python, integrating concepts of randomness and logic for problem-solving.
+
+This repository reflects my hands-on learning journey in Python programming and computational thinking.
+
