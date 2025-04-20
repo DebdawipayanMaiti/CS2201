@@ -1,2 +1,2 @@
 # CS2201
-This repository contains my coursework and projects for CS2201. It includes Python scripts, assignments, and project files that showcase my understanding of key computer science concepts, such as algorithms, data structures, and problem-solving, from the course.
+This repository contains my coursework and projects for CS2201. It includes Python scripts, assignments, and project files that showcase my understanding of key computer science concepts, such as algorithms, data structures, and problem-solving, from the course.Here Set1 to Set8 is my solution for that specific question sets in different weeks.
